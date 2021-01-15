@@ -1,0 +1,51 @@
+body{
+    background-color: lightgreen;
+    width: 1000px;
+    text-align: justify;
+    margin: auto;
+     margin-left: 500px;
+     margin-right: 500px
+}
+.kistabla{
+   width: 100%;
+   
+}
+a{
+    color: grey;
+    text-decoration: none;
+}
+.oszlop2{
+
+}.sarga{
+    background-color: yellow;
+}
+.jobbra{
+    text-align: right;
+}
+body{
+    background-color: lightgreen;
+}
+.pulik{
+    display: flex;
+    
+   
+}
+.kozepre{
+    text-align: center;
+}
+.jobbkep{
+    text-align: right;
+    width: 100px;
+    height: 70px;
+    float: right;
+    padding-left: 2px;
+    
+}
+.nagybetus{
+    font-size: 50px;
+}
+hr{
+   background-color: yellow;
+   height: 2px;
+   border: 0px;
+}
