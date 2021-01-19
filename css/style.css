@@ -1,0 +1,80 @@
+body{
+    background-color: gray;
+    color: white;
+}
+#balkep{
+    width: 170px;
+    height: 110px;
+    margin-right: 10px;
+    box-shadow: 5px 5px 3px #1d1d4e;
+    float: left;
+
+}
+h2{
+    
+}
+
+#jobbkep{
+    box-shadow: 5px 5px 3px #1d1d4e;
+    width: 310px;
+    height: 210px;
+    float: right;
+}  
+
+.forras{
+    text-align: center;
+   
+    
+}
+h1{
+    text-align: center;
+}
+table{
+    box-shadow: 5px 5px 3px #1d1d4e;
+    background-color: gray;
+    border-collapse: collapse;
+    width: 325px;
+    height: 350px;
+}
+
+.fejsor{
+    text-align: center;
+    background-color: #1d1d4e;
+    font-style:normal;
+    font-weight: bold;
+    
+       
+}
+tr{
+    
+    font-style: normal;
+    
+}   
+th, td {
+    
+    font-style: italic;
+    border: 1px dotted  #1d1d4e;
+    
+}
+a:link{
+    
+    color: #4e0582;
+    
+}
+a:visited{
+    color: #4e0582;
+}
+a:active{
+    color: red;
+}
+hr{
+    height: 2px;
+    color: black;
+    margin-left: 75px;
+}
+.baloldal{
+    text-align: right;
+    font-style: normal;
+    padding-right: 5px;
+    font-weight: bold;
+}
