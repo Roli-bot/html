@@ -1,0 +1,39 @@
+
+
+body{
+    background-image: url(hatter.jpg);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.cim{
+    text-align: center;
+    background-image: url();
+    height: 100px;
+    line-height: 3;
+    background-repeat: no-repeat;
+}
+.div1{
+margin: 0% 30%;
+}
+.balminta{
+    background-image: url(menukep.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    color: #800000;
+    background-color: #e8e8e8 ;
+    width: 25%;
+    padding-bottom: 300px;    
+    background-position: bottom;
+    
+}
+.szöveg{
+    background-image: url("tartalomkep.jpg");
+    background-position: top right;
+    background-repeat: no-repeat;
+    color: #484848;
+    background-color: #ffffff;
+    background-size: 50%;
+
+}
+.p1{
+    text-align: center;
+}
