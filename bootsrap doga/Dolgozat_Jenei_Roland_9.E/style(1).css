@@ -1,0 +1,103 @@
+body{
+    background-color: gray;
+}
+h1{
+    border-style: double;
+    border-width: 6px;
+    border-color: darkblue;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    text-align: center;
+    margin-bottom: 0px;
+}
+h2{
+    text-align: left;
+    border-color: darkblue;
+    border-style: solid;
+    border-width: 7px;
+    border-top: 3px darkblue solid;
+    border-left: none;
+    border-right: none;
+    border-bottom: 3px darkblue dotted;
+    margin-right: 40%;
+    color: darkblue;
+}
+p{
+    text-align: justify;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+li{
+    text-align: justify;
+    list-style-image:url(kukac.png) ;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.div1{
+    background-color: lightskyblue;
+    padding: 30px;
+    width: 960px;
+    margin: auto;
+    height: 2630px;
+    
+}
+a:link{
+    color: purple;
+    font-style: italic;
+}
+a:active{
+    color: darkblue;
+}
+.forras{
+    font-style: italic;
+    padding-left: 610px;
+    margin-top: 0px;
+}
+.alan{
+    float: left;
+    border: 7px darkblue solid;
+    width: 180px;
+    height: 450;
+    margin-right: 13px;
+
+}
+.kep1{
+    border-style: inset;
+    float: right;
+    border: 7px darkblue solid;
+    width: 190px;
+    height: 460;
+    margin-left: 13px;
+    margin-top: 0px;
+}
+.kep2{
+    float: right;
+    border: 7px darkblue solid;
+    width: 190px;
+    height: 460;
+    margin-left: 13px;
+    margin-top: 30px;
+    margin-right: 0px;
+    border-style: inset;
+}
+.neumann{
+    float: left;
+    border: 7px darkblue solid;
+    width: 190px;
+    height: 460;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    margin-right: 10px;
+    border-style: inset;
+}
+.neumann2{
+    float: right;
+    border: 7px darkblue solid;
+    width: 190px;
+    height: 360;
+    margin-left: 12px;
+    margin-right: 10px;
+    margin-top: 0px;
+    border-style: inset;
+}

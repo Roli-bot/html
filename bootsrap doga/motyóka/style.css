@@ -1,0 +1,73 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-image: url(img/hatter.jpg);
+}
+table {
+    border-collapse: collapse;
+}
+.cím {
+    text-align: center;
+    background-size: contain;
+    background-image: url(img/fejlec.jpg);
+    background-repeat: no-repeat;
+    height: 145px;
+
+}
+    .szöveg {
+    margin: auto;
+    width: 910px;
+    text-align: justify;
+}
+
+
+.baloldal {
+    color: #800000;
+    vertical-align: top;
+    background-color: #E8E8E8;
+    margin: 0px;
+    padding: 10px 0px 0px 10px;
+}
+
+
+.info2 {
+    text-align: left;
+    font-size: small;
+}
+
+.info {
+    padding-left: 50px;
+    padding-right: 70px;
+}
+
+.parád {
+    margin-bottom: 0px;
+}
+.bekezdések {
+    background-image: url(img/tartalomkep.jpg);
+    background-repeat: no-repeat;
+    background-size: 300px;
+    padding-right: 15px;
+    padding-left: 15px;
+    background-position: top right;
+    background-color: white;
+    color: #484848;
+    
+
+}
+
+.valami {
+    margin-top: 0px;
+}
+
+
+
+
+.alsókép {
+    display: flex;
+    width: 250px;
+    
+}
+
+.üres {
+    background-color: white;
+}
